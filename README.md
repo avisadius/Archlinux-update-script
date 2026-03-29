@@ -41,7 +41,7 @@ sudo chmod +x reboot.sh
 
 sudo chmod +x shutdown.sh
 
-type update.sh reboot.sh or shutdown.sh (depend which one suit you)
+type ./update.sh ./reboot.sh or ./shutdown.sh (depend which one suit you)
 
 fill in the password and wait for the script executable
 
